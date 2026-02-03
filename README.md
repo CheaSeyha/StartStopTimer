@@ -1,16 +1,40 @@
-# React + Vite
+# ⏱️ Time Tracking Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Why I Built This App
+I built this app to solve a real-life problem I personally faced.
 
-Currently, two official plugins are available:
+While driving or doing long activities, I often didn’t know how many hours I had spent. Using a phone timer was inconvenient because it must keep running in the background, drains battery, and is easy to forget.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+So I created a simple web-based time tracking app that works without relying on a running timer on the user’s device.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
+- Start and stop time tracking easily  
+- Automatically calculates total time spent  
+- No login required (session-based)  
+- You can close the browser after clicking **Start** and return later to **Stop** without losing data  
+- Low battery usage (no continuous background timer)  
+- View history of tracked time  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Who Is This App For?
+- Drivers  
+- Freelancers  
+- Students  
+- Anyone who needs to track time without keeping a timer running  
+
+---
+
+## 🛠️ Project Purpose
+- Solve a real-world problem  
+- Practice full-stack web development  
+- Improve session handling and user experience  
+
+---
+
+## 📌 Notes
+- No authentication required  
+- Lightweight and easy to use  
+- Designed for convenience and efficiency  
